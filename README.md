@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-I’m **tqk2811**. Below are my main repositories, with live GitHub stats for stars and forks.
-
 <table>
   <tr>
     <td valign="top" width="50%">
